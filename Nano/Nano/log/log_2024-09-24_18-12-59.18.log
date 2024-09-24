@@ -2350,3 +2350,997 @@
 [2024-Sep-24 19:14:24.770975]: Starting legacy bootstrap attempt with ID auto_bootstrap_731
 [2024-Sep-24 19:14:24.773008]: Bootstrap attempt stopped because there are no peers
 [2024-Sep-24 19:14:24.773561]: Exiting legacy bootstrap attempt with ID auto_bootstrap_731
+[2024-Sep-24 19:14:29.801175]: Starting legacy bootstrap attempt with ID auto_bootstrap_732
+[2024-Sep-24 19:14:29.805734]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:14:29.806403]: Exiting legacy bootstrap attempt with ID auto_bootstrap_732
+[2024-Sep-24 19:14:34.828168]: Starting legacy bootstrap attempt with ID auto_bootstrap_733
+[2024-Sep-24 19:14:34.829099]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:14:34.829729]: Exiting legacy bootstrap attempt with ID auto_bootstrap_733
+[2024-Sep-24 19:14:39.849126]: Starting legacy bootstrap attempt with ID auto_bootstrap_734
+[2024-Sep-24 19:14:39.851550]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:14:39.852564]: Exiting legacy bootstrap attempt with ID auto_bootstrap_734
+[2024-Sep-24 19:14:44.852254]: Starting legacy bootstrap attempt with ID auto_bootstrap_735
+[2024-Sep-24 19:14:44.854558]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:14:44.854725]: Exiting legacy bootstrap attempt with ID auto_bootstrap_735
+[2024-Sep-24 19:14:49.867798]: Starting legacy bootstrap attempt with ID auto_bootstrap_736
+[2024-Sep-24 19:14:49.871366]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:14:49.871923]: Exiting legacy bootstrap attempt with ID auto_bootstrap_736
+[2024-Sep-24 19:14:54.873806]: Starting legacy bootstrap attempt with ID auto_bootstrap_737
+[2024-Sep-24 19:14:54.874463]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:14:54.877187]: Exiting legacy bootstrap attempt with ID auto_bootstrap_737
+[2024-Sep-24 19:14:59.923196]: Starting legacy bootstrap attempt with ID auto_bootstrap_738
+[2024-Sep-24 19:14:59.925387]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:14:59.925540]: Exiting legacy bootstrap attempt with ID auto_bootstrap_738
+[2024-Sep-24 19:15:04.955080]: Starting legacy bootstrap attempt with ID auto_bootstrap_739
+[2024-Sep-24 19:15:04.959420]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:15:04.959596]: Exiting legacy bootstrap attempt with ID auto_bootstrap_739
+[2024-Sep-24 19:15:09.989319]: Starting legacy bootstrap attempt with ID auto_bootstrap_740
+[2024-Sep-24 19:15:09.990785]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:15:09.991001]: Exiting legacy bootstrap attempt with ID auto_bootstrap_740
+[2024-Sep-24 19:15:15.018878]: Starting legacy bootstrap attempt with ID auto_bootstrap_741
+[2024-Sep-24 19:15:15.021691]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:15:15.022526]: Exiting legacy bootstrap attempt with ID auto_bootstrap_741
+[2024-Sep-24 19:15:20.047670]: Starting legacy bootstrap attempt with ID auto_bootstrap_742
+[2024-Sep-24 19:15:20.052392]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:15:20.052565]: Exiting legacy bootstrap attempt with ID auto_bootstrap_742
+[2024-Sep-24 19:15:25.078924]: Starting legacy bootstrap attempt with ID auto_bootstrap_743
+[2024-Sep-24 19:15:25.080832]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:15:25.081494]: Exiting legacy bootstrap attempt with ID auto_bootstrap_743
+[2024-Sep-24 19:15:30.111993]: Starting legacy bootstrap attempt with ID auto_bootstrap_744
+[2024-Sep-24 19:15:30.115839]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:15:30.116272]: Exiting legacy bootstrap attempt with ID auto_bootstrap_744
+[2024-Sep-24 19:15:35.143931]: Starting legacy bootstrap attempt with ID auto_bootstrap_745
+[2024-Sep-24 19:15:35.146487]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:15:35.146628]: Exiting legacy bootstrap attempt with ID auto_bootstrap_745
+[2024-Sep-24 19:15:40.163826]: Starting legacy bootstrap attempt with ID auto_bootstrap_746
+[2024-Sep-24 19:15:40.164789]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:15:40.164999]: Exiting legacy bootstrap attempt with ID auto_bootstrap_746
+[2024-Sep-24 19:15:45.237041]: Starting legacy bootstrap attempt with ID auto_bootstrap_747
+[2024-Sep-24 19:15:45.245534]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:15:45.251293]: Exiting legacy bootstrap attempt with ID auto_bootstrap_747
+[2024-Sep-24 19:15:50.299245]: Starting legacy bootstrap attempt with ID auto_bootstrap_748
+[2024-Sep-24 19:15:50.303289]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:15:50.307529]: Exiting legacy bootstrap attempt with ID auto_bootstrap_748
+[2024-Sep-24 19:15:55.379665]: Starting legacy bootstrap attempt with ID auto_bootstrap_749
+[2024-Sep-24 19:15:55.381267]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:15:55.382322]: Exiting legacy bootstrap attempt with ID auto_bootstrap_749
+[2024-Sep-24 19:16:00.428811]: Starting legacy bootstrap attempt with ID auto_bootstrap_750
+[2024-Sep-24 19:16:00.429336]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:00.429583]: Exiting legacy bootstrap attempt with ID auto_bootstrap_750
+[2024-Sep-24 19:16:05.465857]: Starting legacy bootstrap attempt with ID auto_bootstrap_751
+[2024-Sep-24 19:16:05.466407]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:05.466544]: Exiting legacy bootstrap attempt with ID auto_bootstrap_751
+[2024-Sep-24 19:16:10.489313]: Starting legacy bootstrap attempt with ID auto_bootstrap_752
+[2024-Sep-24 19:16:10.491730]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:10.491888]: Exiting legacy bootstrap attempt with ID auto_bootstrap_752
+[2024-Sep-24 19:16:15.496673]: Starting legacy bootstrap attempt with ID auto_bootstrap_753
+[2024-Sep-24 19:16:15.504332]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:15.509527]: Exiting legacy bootstrap attempt with ID auto_bootstrap_753
+[2024-Sep-24 19:16:20.531798]: Starting legacy bootstrap attempt with ID auto_bootstrap_754
+[2024-Sep-24 19:16:20.534295]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:20.534428]: Exiting legacy bootstrap attempt with ID auto_bootstrap_754
+[2024-Sep-24 19:16:25.602595]: Starting legacy bootstrap attempt with ID auto_bootstrap_755
+[2024-Sep-24 19:16:25.604240]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:25.604386]: Exiting legacy bootstrap attempt with ID auto_bootstrap_755
+[2024-Sep-24 19:16:30.607003]: Starting legacy bootstrap attempt with ID auto_bootstrap_756
+[2024-Sep-24 19:16:30.608578]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:30.612035]: Exiting legacy bootstrap attempt with ID auto_bootstrap_756
+[2024-Sep-24 19:16:35.646227]: Starting legacy bootstrap attempt with ID auto_bootstrap_757
+[2024-Sep-24 19:16:35.650433]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:35.650623]: Exiting legacy bootstrap attempt with ID auto_bootstrap_757
+[2024-Sep-24 19:16:40.687314]: Starting legacy bootstrap attempt with ID auto_bootstrap_758
+[2024-Sep-24 19:16:40.690783]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:40.692078]: Exiting legacy bootstrap attempt with ID auto_bootstrap_758
+[2024-Sep-24 19:16:45.724432]: Starting legacy bootstrap attempt with ID auto_bootstrap_759
+[2024-Sep-24 19:16:45.728838]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:45.731631]: Exiting legacy bootstrap attempt with ID auto_bootstrap_759
+[2024-Sep-24 19:16:50.799735]: Starting legacy bootstrap attempt with ID auto_bootstrap_760
+[2024-Sep-24 19:16:50.802303]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:50.804755]: Exiting legacy bootstrap attempt with ID auto_bootstrap_760
+[2024-Sep-24 19:16:55.865963]: Starting legacy bootstrap attempt with ID auto_bootstrap_761
+[2024-Sep-24 19:16:55.866870]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:16:55.866965]: Exiting legacy bootstrap attempt with ID auto_bootstrap_761
+[2024-Sep-24 19:17:00.887008]: Starting legacy bootstrap attempt with ID auto_bootstrap_762
+[2024-Sep-24 19:17:00.893279]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:00.893740]: Exiting legacy bootstrap attempt with ID auto_bootstrap_762
+[2024-Sep-24 19:17:05.946472]: Starting legacy bootstrap attempt with ID auto_bootstrap_763
+[2024-Sep-24 19:17:05.949490]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:05.952652]: Exiting legacy bootstrap attempt with ID auto_bootstrap_763
+[2024-Sep-24 19:17:10.989303]: Starting legacy bootstrap attempt with ID auto_bootstrap_764
+[2024-Sep-24 19:17:10.991536]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:10.993380]: Exiting legacy bootstrap attempt with ID auto_bootstrap_764
+[2024-Sep-24 19:17:16.040671]: Starting legacy bootstrap attempt with ID auto_bootstrap_765
+[2024-Sep-24 19:17:16.047095]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:16.048669]: Exiting legacy bootstrap attempt with ID auto_bootstrap_765
+[2024-Sep-24 19:17:21.054179]: Starting legacy bootstrap attempt with ID auto_bootstrap_766
+[2024-Sep-24 19:17:21.058823]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:21.060200]: Exiting legacy bootstrap attempt with ID auto_bootstrap_766
+[2024-Sep-24 19:17:26.063487]: Starting legacy bootstrap attempt with ID auto_bootstrap_767
+[2024-Sep-24 19:17:26.066236]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:26.066688]: Exiting legacy bootstrap attempt with ID auto_bootstrap_767
+[2024-Sep-24 19:17:31.090415]: Starting legacy bootstrap attempt with ID auto_bootstrap_768
+[2024-Sep-24 19:17:31.093460]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:31.096354]: Exiting legacy bootstrap attempt with ID auto_bootstrap_768
+[2024-Sep-24 19:17:36.158444]: Starting legacy bootstrap attempt with ID auto_bootstrap_769
+[2024-Sep-24 19:17:36.166274]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:36.167913]: Exiting legacy bootstrap attempt with ID auto_bootstrap_769
+[2024-Sep-24 19:17:41.200044]: Starting legacy bootstrap attempt with ID auto_bootstrap_770
+[2024-Sep-24 19:17:41.201129]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:41.201273]: Exiting legacy bootstrap attempt with ID auto_bootstrap_770
+[2024-Sep-24 19:17:46.277903]: Starting legacy bootstrap attempt with ID auto_bootstrap_771
+[2024-Sep-24 19:17:46.281270]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:46.283011]: Exiting legacy bootstrap attempt with ID auto_bootstrap_771
+[2024-Sep-24 19:17:51.354460]: Starting legacy bootstrap attempt with ID auto_bootstrap_772
+[2024-Sep-24 19:17:51.356371]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:51.360687]: Exiting legacy bootstrap attempt with ID auto_bootstrap_772
+[2024-Sep-24 19:17:56.364799]: Starting legacy bootstrap attempt with ID auto_bootstrap_773
+[2024-Sep-24 19:17:56.366867]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:17:56.373802]: Exiting legacy bootstrap attempt with ID auto_bootstrap_773
+[2024-Sep-24 19:18:01.395968]: Starting legacy bootstrap attempt with ID auto_bootstrap_774
+[2024-Sep-24 19:18:01.402330]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:01.402991]: Exiting legacy bootstrap attempt with ID auto_bootstrap_774
+[2024-Sep-24 19:18:06.430773]: Starting legacy bootstrap attempt with ID auto_bootstrap_775
+[2024-Sep-24 19:18:06.432598]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:06.433265]: Exiting legacy bootstrap attempt with ID auto_bootstrap_775
+[2024-Sep-24 19:18:11.433087]: Starting legacy bootstrap attempt with ID auto_bootstrap_776
+[2024-Sep-24 19:18:11.434067]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:11.434167]: Exiting legacy bootstrap attempt with ID auto_bootstrap_776
+[2024-Sep-24 19:18:16.483113]: Starting legacy bootstrap attempt with ID auto_bootstrap_777
+[2024-Sep-24 19:18:16.487456]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:16.487653]: Exiting legacy bootstrap attempt with ID auto_bootstrap_777
+[2024-Sep-24 19:18:21.533320]: Starting legacy bootstrap attempt with ID auto_bootstrap_778
+[2024-Sep-24 19:18:21.538040]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:21.538287]: Exiting legacy bootstrap attempt with ID auto_bootstrap_778
+[2024-Sep-24 19:18:26.586220]: Starting legacy bootstrap attempt with ID auto_bootstrap_779
+[2024-Sep-24 19:18:26.587461]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:26.588116]: Exiting legacy bootstrap attempt with ID auto_bootstrap_779
+[2024-Sep-24 19:18:31.587853]: Starting legacy bootstrap attempt with ID auto_bootstrap_780
+[2024-Sep-24 19:18:31.588720]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:31.588816]: Exiting legacy bootstrap attempt with ID auto_bootstrap_780
+[2024-Sep-24 19:18:36.590052]: Starting legacy bootstrap attempt with ID auto_bootstrap_781
+[2024-Sep-24 19:18:36.591058]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:36.591185]: Exiting legacy bootstrap attempt with ID auto_bootstrap_781
+[2024-Sep-24 19:18:41.597078]: Starting legacy bootstrap attempt with ID auto_bootstrap_782
+[2024-Sep-24 19:18:41.600400]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:41.600831]: Exiting legacy bootstrap attempt with ID auto_bootstrap_782
+[2024-Sep-24 19:18:46.604014]: Starting legacy bootstrap attempt with ID auto_bootstrap_783
+[2024-Sep-24 19:18:46.606795]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:46.609608]: Exiting legacy bootstrap attempt with ID auto_bootstrap_783
+[2024-Sep-24 19:18:51.622950]: Starting legacy bootstrap attempt with ID auto_bootstrap_784
+[2024-Sep-24 19:18:51.627546]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:51.629643]: Exiting legacy bootstrap attempt with ID auto_bootstrap_784
+[2024-Sep-24 19:18:56.634313]: Starting legacy bootstrap attempt with ID auto_bootstrap_785
+[2024-Sep-24 19:18:56.638042]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:18:56.639170]: Exiting legacy bootstrap attempt with ID auto_bootstrap_785
+[2024-Sep-24 19:19:01.654272]: Starting legacy bootstrap attempt with ID auto_bootstrap_786
+[2024-Sep-24 19:19:01.655278]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:01.655423]: Exiting legacy bootstrap attempt with ID auto_bootstrap_786
+[2024-Sep-24 19:19:06.656027]: Starting legacy bootstrap attempt with ID auto_bootstrap_787
+[2024-Sep-24 19:19:06.696339]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:06.697281]: Exiting legacy bootstrap attempt with ID auto_bootstrap_787
+[2024-Sep-24 19:19:11.658231]: Starting legacy bootstrap attempt with ID auto_bootstrap_788
+[2024-Sep-24 19:19:11.663097]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:11.663688]: Exiting legacy bootstrap attempt with ID auto_bootstrap_788
+[2024-Sep-24 19:19:16.708599]: Starting legacy bootstrap attempt with ID auto_bootstrap_789
+[2024-Sep-24 19:19:16.715040]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:16.715233]: Exiting legacy bootstrap attempt with ID auto_bootstrap_789
+[2024-Sep-24 19:19:21.718816]: Starting legacy bootstrap attempt with ID auto_bootstrap_790
+[2024-Sep-24 19:19:21.722405]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:21.722895]: Exiting legacy bootstrap attempt with ID auto_bootstrap_790
+[2024-Sep-24 19:19:26.784913]: Starting legacy bootstrap attempt with ID auto_bootstrap_791
+[2024-Sep-24 19:19:26.786011]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:26.786160]: Exiting legacy bootstrap attempt with ID auto_bootstrap_791
+[2024-Sep-24 19:19:31.802758]: Starting legacy bootstrap attempt with ID auto_bootstrap_792
+[2024-Sep-24 19:19:31.805036]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:31.805654]: Exiting legacy bootstrap attempt with ID auto_bootstrap_792
+[2024-Sep-24 19:19:36.860892]: Starting legacy bootstrap attempt with ID auto_bootstrap_793
+[2024-Sep-24 19:19:36.862212]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:36.862437]: Exiting legacy bootstrap attempt with ID auto_bootstrap_793
+[2024-Sep-24 19:19:41.864234]: Starting legacy bootstrap attempt with ID auto_bootstrap_794
+[2024-Sep-24 19:19:41.865317]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:41.865843]: Exiting legacy bootstrap attempt with ID auto_bootstrap_794
+[2024-Sep-24 19:19:46.875885]: Starting legacy bootstrap attempt with ID auto_bootstrap_795
+[2024-Sep-24 19:19:46.879549]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:46.879829]: Exiting legacy bootstrap attempt with ID auto_bootstrap_795
+[2024-Sep-24 19:19:51.901697]: Starting legacy bootstrap attempt with ID auto_bootstrap_796
+[2024-Sep-24 19:19:51.902476]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:51.902607]: Exiting legacy bootstrap attempt with ID auto_bootstrap_796
+[2024-Sep-24 19:19:56.966928]: Starting legacy bootstrap attempt with ID auto_bootstrap_797
+[2024-Sep-24 19:19:56.968511]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:19:56.968672]: Exiting legacy bootstrap attempt with ID auto_bootstrap_797
+[2024-Sep-24 19:20:02.043571]: Starting legacy bootstrap attempt with ID auto_bootstrap_798
+[2024-Sep-24 19:20:02.047759]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:02.047927]: Exiting legacy bootstrap attempt with ID auto_bootstrap_798
+[2024-Sep-24 19:20:07.086281]: Starting legacy bootstrap attempt with ID auto_bootstrap_799
+[2024-Sep-24 19:20:07.087229]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:07.087533]: Exiting legacy bootstrap attempt with ID auto_bootstrap_799
+[2024-Sep-24 19:20:12.147464]: Starting legacy bootstrap attempt with ID auto_bootstrap_800
+[2024-Sep-24 19:20:12.164754]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:12.165948]: Exiting legacy bootstrap attempt with ID auto_bootstrap_800
+[2024-Sep-24 19:20:17.274814]: Starting legacy bootstrap attempt with ID auto_bootstrap_801
+[2024-Sep-24 19:20:17.275282]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:17.275373]: Exiting legacy bootstrap attempt with ID auto_bootstrap_801
+[2024-Sep-24 19:20:22.361925]: Starting legacy bootstrap attempt with ID auto_bootstrap_802
+[2024-Sep-24 19:20:22.362795]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:22.363075]: Exiting legacy bootstrap attempt with ID auto_bootstrap_802
+[2024-Sep-24 19:20:27.376842]: Starting legacy bootstrap attempt with ID auto_bootstrap_803
+[2024-Sep-24 19:20:27.378130]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:27.378302]: Exiting legacy bootstrap attempt with ID auto_bootstrap_803
+[2024-Sep-24 19:20:32.383351]: Starting legacy bootstrap attempt with ID auto_bootstrap_804
+[2024-Sep-24 19:20:32.386119]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:32.386669]: Exiting legacy bootstrap attempt with ID auto_bootstrap_804
+[2024-Sep-24 19:20:37.448647]: Starting legacy bootstrap attempt with ID auto_bootstrap_805
+[2024-Sep-24 19:20:37.449530]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:37.449631]: Exiting legacy bootstrap attempt with ID auto_bootstrap_805
+[2024-Sep-24 19:20:42.452823]: Starting legacy bootstrap attempt with ID auto_bootstrap_806
+[2024-Sep-24 19:20:42.453683]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:42.453768]: Exiting legacy bootstrap attempt with ID auto_bootstrap_806
+[2024-Sep-24 19:20:47.539665]: Starting legacy bootstrap attempt with ID auto_bootstrap_807
+[2024-Sep-24 19:20:47.540521]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:47.541590]: Exiting legacy bootstrap attempt with ID auto_bootstrap_807
+[2024-Sep-24 19:20:52.598836]: Starting legacy bootstrap attempt with ID auto_bootstrap_808
+[2024-Sep-24 19:20:52.600533]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:52.601988]: Exiting legacy bootstrap attempt with ID auto_bootstrap_808
+[2024-Sep-24 19:20:57.639889]: Starting legacy bootstrap attempt with ID auto_bootstrap_809
+[2024-Sep-24 19:20:57.641187]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:20:57.641337]: Exiting legacy bootstrap attempt with ID auto_bootstrap_809
+[2024-Sep-24 19:21:02.737545]: Starting legacy bootstrap attempt with ID auto_bootstrap_810
+[2024-Sep-24 19:21:02.741130]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:02.741289]: Exiting legacy bootstrap attempt with ID auto_bootstrap_810
+[2024-Sep-24 19:21:07.755333]: Starting legacy bootstrap attempt with ID auto_bootstrap_811
+[2024-Sep-24 19:21:07.758560]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:07.758716]: Exiting legacy bootstrap attempt with ID auto_bootstrap_811
+[2024-Sep-24 19:21:12.905611]: Starting legacy bootstrap attempt with ID auto_bootstrap_812
+[2024-Sep-24 19:21:12.917032]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:12.917359]: Exiting legacy bootstrap attempt with ID auto_bootstrap_812
+[2024-Sep-24 19:21:17.956352]: Starting legacy bootstrap attempt with ID auto_bootstrap_813
+[2024-Sep-24 19:21:17.960213]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:17.960387]: Exiting legacy bootstrap attempt with ID auto_bootstrap_813
+[2024-Sep-24 19:21:22.962830]: Starting legacy bootstrap attempt with ID auto_bootstrap_814
+[2024-Sep-24 19:21:22.967648]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:22.969256]: Exiting legacy bootstrap attempt with ID auto_bootstrap_814
+[2024-Sep-24 19:21:28.106055]: Starting legacy bootstrap attempt with ID auto_bootstrap_815
+[2024-Sep-24 19:21:28.113409]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:28.113889]: Exiting legacy bootstrap attempt with ID auto_bootstrap_815
+[2024-Sep-24 19:21:33.109252]: Starting legacy bootstrap attempt with ID auto_bootstrap_816
+[2024-Sep-24 19:21:33.110949]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:33.111104]: Exiting legacy bootstrap attempt with ID auto_bootstrap_816
+[2024-Sep-24 19:21:38.128433]: Starting legacy bootstrap attempt with ID auto_bootstrap_817
+[2024-Sep-24 19:21:38.130616]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:38.130777]: Exiting legacy bootstrap attempt with ID auto_bootstrap_817
+[2024-Sep-24 19:21:43.205970]: Starting legacy bootstrap attempt with ID auto_bootstrap_818
+[2024-Sep-24 19:21:43.210216]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:43.211883]: Exiting legacy bootstrap attempt with ID auto_bootstrap_818
+[2024-Sep-24 19:21:48.209267]: Starting legacy bootstrap attempt with ID auto_bootstrap_819
+[2024-Sep-24 19:21:48.210416]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:48.210566]: Exiting legacy bootstrap attempt with ID auto_bootstrap_819
+[2024-Sep-24 19:21:53.214980]: Starting legacy bootstrap attempt with ID auto_bootstrap_820
+[2024-Sep-24 19:21:53.216525]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:53.217337]: Exiting legacy bootstrap attempt with ID auto_bootstrap_820
+[2024-Sep-24 19:21:58.298626]: Starting legacy bootstrap attempt with ID auto_bootstrap_821
+[2024-Sep-24 19:21:58.305606]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:21:58.306280]: Exiting legacy bootstrap attempt with ID auto_bootstrap_821
+[2024-Sep-24 19:22:03.370372]: Starting legacy bootstrap attempt with ID auto_bootstrap_822
+[2024-Sep-24 19:22:03.377207]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:03.377399]: Exiting legacy bootstrap attempt with ID auto_bootstrap_822
+[2024-Sep-24 19:22:08.380248]: Starting legacy bootstrap attempt with ID auto_bootstrap_823
+[2024-Sep-24 19:22:08.381237]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:08.381358]: Exiting legacy bootstrap attempt with ID auto_bootstrap_823
+[2024-Sep-24 19:22:13.421071]: Starting legacy bootstrap attempt with ID auto_bootstrap_824
+[2024-Sep-24 19:22:13.422587]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:13.422737]: Exiting legacy bootstrap attempt with ID auto_bootstrap_824
+[2024-Sep-24 19:22:18.571004]: Starting legacy bootstrap attempt with ID auto_bootstrap_825
+[2024-Sep-24 19:22:18.572577]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:18.572713]: Exiting legacy bootstrap attempt with ID auto_bootstrap_825
+[2024-Sep-24 19:22:23.577064]: Starting legacy bootstrap attempt with ID auto_bootstrap_826
+[2024-Sep-24 19:22:23.579424]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:23.580409]: Exiting legacy bootstrap attempt with ID auto_bootstrap_826
+[2024-Sep-24 19:22:28.633081]: Starting legacy bootstrap attempt with ID auto_bootstrap_827
+[2024-Sep-24 19:22:28.633970]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:28.637428]: Exiting legacy bootstrap attempt with ID auto_bootstrap_827
+[2024-Sep-24 19:22:33.677086]: Starting legacy bootstrap attempt with ID auto_bootstrap_828
+[2024-Sep-24 19:22:33.681676]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:33.683058]: Exiting legacy bootstrap attempt with ID auto_bootstrap_828
+[2024-Sep-24 19:22:38.723877]: Starting legacy bootstrap attempt with ID auto_bootstrap_829
+[2024-Sep-24 19:22:38.727660]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:38.728644]: Exiting legacy bootstrap attempt with ID auto_bootstrap_829
+[2024-Sep-24 19:22:43.807871]: Starting legacy bootstrap attempt with ID auto_bootstrap_830
+[2024-Sep-24 19:22:43.812043]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:43.812952]: Exiting legacy bootstrap attempt with ID auto_bootstrap_830
+[2024-Sep-24 19:22:48.832609]: Starting legacy bootstrap attempt with ID auto_bootstrap_831
+[2024-Sep-24 19:22:48.833790]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:48.833933]: Exiting legacy bootstrap attempt with ID auto_bootstrap_831
+[2024-Sep-24 19:22:53.850678]: Starting legacy bootstrap attempt with ID auto_bootstrap_832
+[2024-Sep-24 19:22:53.860346]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:53.862905]: Exiting legacy bootstrap attempt with ID auto_bootstrap_832
+[2024-Sep-24 19:22:58.890977]: Starting legacy bootstrap attempt with ID auto_bootstrap_833
+[2024-Sep-24 19:22:58.891820]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:22:58.891917]: Exiting legacy bootstrap attempt with ID auto_bootstrap_833
+[2024-Sep-24 19:23:03.895703]: Starting legacy bootstrap attempt with ID auto_bootstrap_834
+[2024-Sep-24 19:23:03.897606]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:03.897737]: Exiting legacy bootstrap attempt with ID auto_bootstrap_834
+[2024-Sep-24 19:23:08.901539]: Starting legacy bootstrap attempt with ID auto_bootstrap_835
+[2024-Sep-24 19:23:08.906813]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:08.907263]: Exiting legacy bootstrap attempt with ID auto_bootstrap_835
+[2024-Sep-24 19:23:13.903148]: Starting legacy bootstrap attempt with ID auto_bootstrap_836
+[2024-Sep-24 19:23:13.905061]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:13.905609]: Exiting legacy bootstrap attempt with ID auto_bootstrap_836
+[2024-Sep-24 19:23:18.913618]: Starting legacy bootstrap attempt with ID auto_bootstrap_837
+[2024-Sep-24 19:23:18.916695]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:18.917143]: Exiting legacy bootstrap attempt with ID auto_bootstrap_837
+[2024-Sep-24 19:23:23.947830]: Starting legacy bootstrap attempt with ID auto_bootstrap_838
+[2024-Sep-24 19:23:23.948962]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:23.949067]: Exiting legacy bootstrap attempt with ID auto_bootstrap_838
+[2024-Sep-24 19:23:29.018712]: Starting legacy bootstrap attempt with ID auto_bootstrap_839
+[2024-Sep-24 19:23:29.022147]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:29.026175]: Exiting legacy bootstrap attempt with ID auto_bootstrap_839
+[2024-Sep-24 19:23:34.070381]: Starting legacy bootstrap attempt with ID auto_bootstrap_840
+[2024-Sep-24 19:23:34.072177]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:34.076786]: Exiting legacy bootstrap attempt with ID auto_bootstrap_840
+[2024-Sep-24 19:23:39.141722]: Starting legacy bootstrap attempt with ID auto_bootstrap_841
+[2024-Sep-24 19:23:39.143651]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:39.144472]: Exiting legacy bootstrap attempt with ID auto_bootstrap_841
+[2024-Sep-24 19:23:44.152827]: Starting legacy bootstrap attempt with ID auto_bootstrap_842
+[2024-Sep-24 19:23:44.156445]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:44.158360]: Exiting legacy bootstrap attempt with ID auto_bootstrap_842
+[2024-Sep-24 19:23:49.188774]: Starting legacy bootstrap attempt with ID auto_bootstrap_843
+[2024-Sep-24 19:23:49.191055]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:49.191532]: Exiting legacy bootstrap attempt with ID auto_bootstrap_843
+[2024-Sep-24 19:23:54.257200]: Starting legacy bootstrap attempt with ID auto_bootstrap_844
+[2024-Sep-24 19:23:54.262139]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:54.262396]: Exiting legacy bootstrap attempt with ID auto_bootstrap_844
+[2024-Sep-24 19:23:59.296079]: Starting legacy bootstrap attempt with ID auto_bootstrap_845
+[2024-Sep-24 19:23:59.297156]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:23:59.297779]: Exiting legacy bootstrap attempt with ID auto_bootstrap_845
+[2024-Sep-24 19:24:04.303946]: Starting legacy bootstrap attempt with ID auto_bootstrap_846
+[2024-Sep-24 19:24:04.309307]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:24:04.309538]: Exiting legacy bootstrap attempt with ID auto_bootstrap_846
+[2024-Sep-24 19:24:09.329510]: Starting legacy bootstrap attempt with ID auto_bootstrap_847
+[2024-Sep-24 19:24:09.331546]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:24:09.332163]: Exiting legacy bootstrap attempt with ID auto_bootstrap_847
+[2024-Sep-24 19:24:14.334502]: Starting legacy bootstrap attempt with ID auto_bootstrap_848
+[2024-Sep-24 19:24:14.335561]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:24:14.335804]: Exiting legacy bootstrap attempt with ID auto_bootstrap_848
+[2024-Sep-24 19:24:19.348252]: Starting legacy bootstrap attempt with ID auto_bootstrap_849
+[2024-Sep-24 19:24:19.349024]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:24:19.349222]: Exiting legacy bootstrap attempt with ID auto_bootstrap_849
+[2024-Sep-24 19:24:24.361925]: Starting legacy bootstrap attempt with ID auto_bootstrap_850
+[2024-Sep-24 19:24:24.362956]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:24:24.363209]: Exiting legacy bootstrap attempt with ID auto_bootstrap_850
+[2024-Sep-24 19:24:29.507466]: Starting legacy bootstrap attempt with ID auto_bootstrap_851
+[2024-Sep-24 19:24:29.541552]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:24:29.541731]: Exiting legacy bootstrap attempt with ID auto_bootstrap_851
+[2024-Sep-24 19:24:34.549426]: Starting legacy bootstrap attempt with ID auto_bootstrap_852
+[2024-Sep-24 19:24:34.693996]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:24:34.694532]: Exiting legacy bootstrap attempt with ID auto_bootstrap_852
+[2024-Sep-24 19:24:39.793979]: Starting legacy bootstrap attempt with ID auto_bootstrap_853
+[2024-Sep-24 19:24:39.797582]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:24:39.799607]: Exiting legacy bootstrap attempt with ID auto_bootstrap_853
+[2024-Sep-24 19:24:44.938773]: Starting legacy bootstrap attempt with ID auto_bootstrap_854
+[2024-Sep-24 19:24:44.939721]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:24:44.939965]: Exiting legacy bootstrap attempt with ID auto_bootstrap_854
+[2024-Sep-24 19:24:49.943423]: Starting legacy bootstrap attempt with ID auto_bootstrap_855
+[2024-Sep-24 19:24:49.944606]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:24:49.944753]: Exiting legacy bootstrap attempt with ID auto_bootstrap_855
+[2024-Sep-24 19:24:54.993995]: Starting legacy bootstrap attempt with ID auto_bootstrap_856
+[2024-Sep-24 19:24:54.995287]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:24:54.995852]: Exiting legacy bootstrap attempt with ID auto_bootstrap_856
+[2024-Sep-24 19:25:00.021169]: Starting legacy bootstrap attempt with ID auto_bootstrap_857
+[2024-Sep-24 19:25:00.024352]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:00.024596]: Exiting legacy bootstrap attempt with ID auto_bootstrap_857
+[2024-Sep-24 19:25:05.037114]: Starting legacy bootstrap attempt with ID auto_bootstrap_858
+[2024-Sep-24 19:25:05.039067]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:05.042265]: Exiting legacy bootstrap attempt with ID auto_bootstrap_858
+[2024-Sep-24 19:25:10.059182]: Starting legacy bootstrap attempt with ID auto_bootstrap_859
+[2024-Sep-24 19:25:10.060405]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:10.060525]: Exiting legacy bootstrap attempt with ID auto_bootstrap_859
+[2024-Sep-24 19:25:15.085727]: Starting legacy bootstrap attempt with ID auto_bootstrap_860
+[2024-Sep-24 19:25:15.086747]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:15.086945]: Exiting legacy bootstrap attempt with ID auto_bootstrap_860
+[2024-Sep-24 19:25:20.286517]: Starting legacy bootstrap attempt with ID auto_bootstrap_861
+[2024-Sep-24 19:25:20.289665]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:20.289796]: Exiting legacy bootstrap attempt with ID auto_bootstrap_861
+[2024-Sep-24 19:25:25.306260]: Starting legacy bootstrap attempt with ID auto_bootstrap_862
+[2024-Sep-24 19:25:25.307306]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:25.307516]: Exiting legacy bootstrap attempt with ID auto_bootstrap_862
+[2024-Sep-24 19:25:30.309654]: Starting legacy bootstrap attempt with ID auto_bootstrap_863
+[2024-Sep-24 19:25:30.311357]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:30.312504]: Exiting legacy bootstrap attempt with ID auto_bootstrap_863
+[2024-Sep-24 19:25:35.314390]: Starting legacy bootstrap attempt with ID auto_bootstrap_864
+[2024-Sep-24 19:25:35.318056]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:35.319773]: Exiting legacy bootstrap attempt with ID auto_bootstrap_864
+[2024-Sep-24 19:25:40.327627]: Starting legacy bootstrap attempt with ID auto_bootstrap_865
+[2024-Sep-24 19:25:40.331689]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:40.335735]: Exiting legacy bootstrap attempt with ID auto_bootstrap_865
+[2024-Sep-24 19:25:45.389906]: Starting legacy bootstrap attempt with ID auto_bootstrap_866
+[2024-Sep-24 19:25:45.391052]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:45.391256]: Exiting legacy bootstrap attempt with ID auto_bootstrap_866
+[2024-Sep-24 19:25:50.433115]: Starting legacy bootstrap attempt with ID auto_bootstrap_867
+[2024-Sep-24 19:25:50.433783]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:50.433891]: Exiting legacy bootstrap attempt with ID auto_bootstrap_867
+[2024-Sep-24 19:25:55.441459]: Starting legacy bootstrap attempt with ID auto_bootstrap_868
+[2024-Sep-24 19:25:55.442294]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:25:55.442524]: Exiting legacy bootstrap attempt with ID auto_bootstrap_868
+[2024-Sep-24 19:26:00.484528]: Starting legacy bootstrap attempt with ID auto_bootstrap_869
+[2024-Sep-24 19:26:00.486368]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:00.489980]: Exiting legacy bootstrap attempt with ID auto_bootstrap_869
+[2024-Sep-24 19:26:05.491160]: Starting legacy bootstrap attempt with ID auto_bootstrap_870
+[2024-Sep-24 19:26:05.500118]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:05.500255]: Exiting legacy bootstrap attempt with ID auto_bootstrap_870
+[2024-Sep-24 19:26:10.506036]: Starting legacy bootstrap attempt with ID auto_bootstrap_871
+[2024-Sep-24 19:26:10.509120]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:10.509284]: Exiting legacy bootstrap attempt with ID auto_bootstrap_871
+[2024-Sep-24 19:26:15.518680]: Starting legacy bootstrap attempt with ID auto_bootstrap_872
+[2024-Sep-24 19:26:15.519624]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:15.519769]: Exiting legacy bootstrap attempt with ID auto_bootstrap_872
+[2024-Sep-24 19:26:20.538485]: Starting legacy bootstrap attempt with ID auto_bootstrap_873
+[2024-Sep-24 19:26:20.541074]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:20.541475]: Exiting legacy bootstrap attempt with ID auto_bootstrap_873
+[2024-Sep-24 19:26:25.580255]: Starting legacy bootstrap attempt with ID auto_bootstrap_874
+[2024-Sep-24 19:26:25.583134]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:25.583302]: Exiting legacy bootstrap attempt with ID auto_bootstrap_874
+[2024-Sep-24 19:26:30.594188]: Starting legacy bootstrap attempt with ID auto_bootstrap_875
+[2024-Sep-24 19:26:30.596995]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:30.597974]: Exiting legacy bootstrap attempt with ID auto_bootstrap_875
+[2024-Sep-24 19:26:35.600114]: Starting legacy bootstrap attempt with ID auto_bootstrap_876
+[2024-Sep-24 19:26:35.601532]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:35.602156]: Exiting legacy bootstrap attempt with ID auto_bootstrap_876
+[2024-Sep-24 19:26:40.604051]: Starting legacy bootstrap attempt with ID auto_bootstrap_877
+[2024-Sep-24 19:26:40.604881]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:40.607951]: Exiting legacy bootstrap attempt with ID auto_bootstrap_877
+[2024-Sep-24 19:26:45.628016]: Starting legacy bootstrap attempt with ID auto_bootstrap_878
+[2024-Sep-24 19:26:45.628590]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:45.628729]: Exiting legacy bootstrap attempt with ID auto_bootstrap_878
+[2024-Sep-24 19:26:50.663154]: Starting legacy bootstrap attempt with ID auto_bootstrap_879
+[2024-Sep-24 19:26:50.666135]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:50.666312]: Exiting legacy bootstrap attempt with ID auto_bootstrap_879
+[2024-Sep-24 19:26:55.725820]: Starting legacy bootstrap attempt with ID auto_bootstrap_880
+[2024-Sep-24 19:26:55.727720]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:26:55.728248]: Exiting legacy bootstrap attempt with ID auto_bootstrap_880
+[2024-Sep-24 19:27:00.753100]: Starting legacy bootstrap attempt with ID auto_bootstrap_881
+[2024-Sep-24 19:27:00.754283]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:00.754382]: Exiting legacy bootstrap attempt with ID auto_bootstrap_881
+[2024-Sep-24 19:27:05.829845]: Starting legacy bootstrap attempt with ID auto_bootstrap_882
+[2024-Sep-24 19:27:05.831034]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:05.831194]: Exiting legacy bootstrap attempt with ID auto_bootstrap_882
+[2024-Sep-24 19:27:10.833199]: Starting legacy bootstrap attempt with ID auto_bootstrap_883
+[2024-Sep-24 19:27:10.833915]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:10.834055]: Exiting legacy bootstrap attempt with ID auto_bootstrap_883
+[2024-Sep-24 19:27:15.835074]: Starting legacy bootstrap attempt with ID auto_bootstrap_884
+[2024-Sep-24 19:27:15.835820]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:15.835947]: Exiting legacy bootstrap attempt with ID auto_bootstrap_884
+[2024-Sep-24 19:27:20.840970]: Starting legacy bootstrap attempt with ID auto_bootstrap_885
+[2024-Sep-24 19:27:20.845526]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:20.846920]: Exiting legacy bootstrap attempt with ID auto_bootstrap_885
+[2024-Sep-24 19:27:25.874782]: Starting legacy bootstrap attempt with ID auto_bootstrap_886
+[2024-Sep-24 19:27:25.875517]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:25.878019]: Exiting legacy bootstrap attempt with ID auto_bootstrap_886
+[2024-Sep-24 19:27:30.899253]: Starting legacy bootstrap attempt with ID auto_bootstrap_887
+[2024-Sep-24 19:27:30.900324]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:30.900463]: Exiting legacy bootstrap attempt with ID auto_bootstrap_887
+[2024-Sep-24 19:27:35.951628]: Starting legacy bootstrap attempt with ID auto_bootstrap_888
+[2024-Sep-24 19:27:35.956601]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:35.956821]: Exiting legacy bootstrap attempt with ID auto_bootstrap_888
+[2024-Sep-24 19:27:40.998968]: Starting legacy bootstrap attempt with ID auto_bootstrap_889
+[2024-Sep-24 19:27:41.001521]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:41.001678]: Exiting legacy bootstrap attempt with ID auto_bootstrap_889
+[2024-Sep-24 19:27:46.009942]: Starting legacy bootstrap attempt with ID auto_bootstrap_890
+[2024-Sep-24 19:27:46.011483]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:46.011615]: Exiting legacy bootstrap attempt with ID auto_bootstrap_890
+[2024-Sep-24 19:27:51.015303]: Starting legacy bootstrap attempt with ID auto_bootstrap_891
+[2024-Sep-24 19:27:51.016679]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:51.016799]: Exiting legacy bootstrap attempt with ID auto_bootstrap_891
+[2024-Sep-24 19:27:56.081796]: Starting legacy bootstrap attempt with ID auto_bootstrap_892
+[2024-Sep-24 19:27:56.083612]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:27:56.083798]: Exiting legacy bootstrap attempt with ID auto_bootstrap_892
+[2024-Sep-24 19:28:01.112849]: Starting legacy bootstrap attempt with ID auto_bootstrap_893
+[2024-Sep-24 19:28:01.113642]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:01.113849]: Exiting legacy bootstrap attempt with ID auto_bootstrap_893
+[2024-Sep-24 19:28:06.169180]: Starting legacy bootstrap attempt with ID auto_bootstrap_894
+[2024-Sep-24 19:28:06.177432]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:06.180833]: Exiting legacy bootstrap attempt with ID auto_bootstrap_894
+[2024-Sep-24 19:28:11.210319]: Starting legacy bootstrap attempt with ID auto_bootstrap_895
+[2024-Sep-24 19:28:11.211801]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:11.211937]: Exiting legacy bootstrap attempt with ID auto_bootstrap_895
+[2024-Sep-24 19:28:16.246008]: Starting legacy bootstrap attempt with ID auto_bootstrap_896
+[2024-Sep-24 19:28:16.250338]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:16.253134]: Exiting legacy bootstrap attempt with ID auto_bootstrap_896
+[2024-Sep-24 19:28:21.303920]: Starting legacy bootstrap attempt with ID auto_bootstrap_897
+[2024-Sep-24 19:28:21.304644]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:21.304732]: Exiting legacy bootstrap attempt with ID auto_bootstrap_897
+[2024-Sep-24 19:28:26.312164]: Starting legacy bootstrap attempt with ID auto_bootstrap_898
+[2024-Sep-24 19:28:26.316636]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:26.316824]: Exiting legacy bootstrap attempt with ID auto_bootstrap_898
+[2024-Sep-24 19:28:31.318916]: Starting legacy bootstrap attempt with ID auto_bootstrap_899
+[2024-Sep-24 19:28:31.321031]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:31.321188]: Exiting legacy bootstrap attempt with ID auto_bootstrap_899
+[2024-Sep-24 19:28:36.328210]: Starting legacy bootstrap attempt with ID auto_bootstrap_900
+[2024-Sep-24 19:28:36.333178]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:36.337188]: Exiting legacy bootstrap attempt with ID auto_bootstrap_900
+[2024-Sep-24 19:28:41.363343]: Starting legacy bootstrap attempt with ID auto_bootstrap_901
+[2024-Sep-24 19:28:41.364202]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:41.365619]: Exiting legacy bootstrap attempt with ID auto_bootstrap_901
+[2024-Sep-24 19:28:46.365375]: Starting legacy bootstrap attempt with ID auto_bootstrap_902
+[2024-Sep-24 19:28:46.367402]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:46.367550]: Exiting legacy bootstrap attempt with ID auto_bootstrap_902
+[2024-Sep-24 19:28:51.431687]: Starting legacy bootstrap attempt with ID auto_bootstrap_903
+[2024-Sep-24 19:28:51.432292]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:51.432469]: Exiting legacy bootstrap attempt with ID auto_bootstrap_903
+[2024-Sep-24 19:28:56.432939]: Starting legacy bootstrap attempt with ID auto_bootstrap_904
+[2024-Sep-24 19:28:56.436125]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:28:56.439084]: Exiting legacy bootstrap attempt with ID auto_bootstrap_904
+[2024-Sep-24 19:29:01.439191]: Starting legacy bootstrap attempt with ID auto_bootstrap_905
+[2024-Sep-24 19:29:01.444769]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:01.447805]: Exiting legacy bootstrap attempt with ID auto_bootstrap_905
+[2024-Sep-24 19:29:06.479330]: Starting legacy bootstrap attempt with ID auto_bootstrap_906
+[2024-Sep-24 19:29:06.482190]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:06.485619]: Exiting legacy bootstrap attempt with ID auto_bootstrap_906
+[2024-Sep-24 19:29:11.543809]: Starting legacy bootstrap attempt with ID auto_bootstrap_907
+[2024-Sep-24 19:29:11.546998]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:11.549751]: Exiting legacy bootstrap attempt with ID auto_bootstrap_907
+[2024-Sep-24 19:29:16.547462]: Starting legacy bootstrap attempt with ID auto_bootstrap_908
+[2024-Sep-24 19:29:16.549476]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:16.549595]: Exiting legacy bootstrap attempt with ID auto_bootstrap_908
+[2024-Sep-24 19:29:21.575153]: Starting legacy bootstrap attempt with ID auto_bootstrap_909
+[2024-Sep-24 19:29:21.580496]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:21.582562]: Exiting legacy bootstrap attempt with ID auto_bootstrap_909
+[2024-Sep-24 19:29:26.609534]: Starting legacy bootstrap attempt with ID auto_bootstrap_910
+[2024-Sep-24 19:29:26.612151]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:26.612734]: Exiting legacy bootstrap attempt with ID auto_bootstrap_910
+[2024-Sep-24 19:29:31.613575]: Starting legacy bootstrap attempt with ID auto_bootstrap_911
+[2024-Sep-24 19:29:31.614809]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:31.614907]: Exiting legacy bootstrap attempt with ID auto_bootstrap_911
+[2024-Sep-24 19:29:36.256187]: UPnP local address: , discovery: 0, IGD search: 0
+[2024-Sep-24 19:29:36.687801]: Starting legacy bootstrap attempt with ID auto_bootstrap_912
+[2024-Sep-24 19:29:36.737043]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:36.739398]: Exiting legacy bootstrap attempt with ID auto_bootstrap_912
+[2024-Sep-24 19:29:41.767701]: Starting legacy bootstrap attempt with ID auto_bootstrap_913
+[2024-Sep-24 19:29:41.771146]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:41.771543]: Exiting legacy bootstrap attempt with ID auto_bootstrap_913
+[2024-Sep-24 19:29:46.776850]: Starting legacy bootstrap attempt with ID auto_bootstrap_914
+[2024-Sep-24 19:29:46.777458]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:46.777608]: Exiting legacy bootstrap attempt with ID auto_bootstrap_914
+[2024-Sep-24 19:29:51.803114]: Starting legacy bootstrap attempt with ID auto_bootstrap_915
+[2024-Sep-24 19:29:51.804516]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:51.805571]: Exiting legacy bootstrap attempt with ID auto_bootstrap_915
+[2024-Sep-24 19:29:56.818141]: Starting legacy bootstrap attempt with ID auto_bootstrap_916
+[2024-Sep-24 19:29:56.821269]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:29:56.823389]: Exiting legacy bootstrap attempt with ID auto_bootstrap_916
+[2024-Sep-24 19:30:01.824465]: Starting legacy bootstrap attempt with ID auto_bootstrap_917
+[2024-Sep-24 19:30:01.835575]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:01.837413]: Exiting legacy bootstrap attempt with ID auto_bootstrap_917
+[2024-Sep-24 19:30:06.834068]: Starting legacy bootstrap attempt with ID auto_bootstrap_918
+[2024-Sep-24 19:30:06.883535]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:06.883763]: Exiting legacy bootstrap attempt with ID auto_bootstrap_918
+[2024-Sep-24 19:30:11.965033]: Starting legacy bootstrap attempt with ID auto_bootstrap_919
+[2024-Sep-24 19:30:11.965673]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:11.965783]: Exiting legacy bootstrap attempt with ID auto_bootstrap_919
+[2024-Sep-24 19:30:17.031495]: Starting legacy bootstrap attempt with ID auto_bootstrap_920
+[2024-Sep-24 19:30:17.032574]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:17.033192]: Exiting legacy bootstrap attempt with ID auto_bootstrap_920
+[2024-Sep-24 19:30:22.101576]: Starting legacy bootstrap attempt with ID auto_bootstrap_921
+[2024-Sep-24 19:30:22.106995]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:22.107921]: Exiting legacy bootstrap attempt with ID auto_bootstrap_921
+[2024-Sep-24 19:30:27.159186]: Starting legacy bootstrap attempt with ID auto_bootstrap_922
+[2024-Sep-24 19:30:27.173680]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:27.179666]: Exiting legacy bootstrap attempt with ID auto_bootstrap_922
+[2024-Sep-24 19:30:32.202313]: Starting legacy bootstrap attempt with ID auto_bootstrap_923
+[2024-Sep-24 19:30:32.207140]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:32.207795]: Exiting legacy bootstrap attempt with ID auto_bootstrap_923
+[2024-Sep-24 19:30:37.213091]: Starting legacy bootstrap attempt with ID auto_bootstrap_924
+[2024-Sep-24 19:30:37.214024]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:37.214124]: Exiting legacy bootstrap attempt with ID auto_bootstrap_924
+[2024-Sep-24 19:30:42.217456]: Starting legacy bootstrap attempt with ID auto_bootstrap_925
+[2024-Sep-24 19:30:42.218602]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:42.218743]: Exiting legacy bootstrap attempt with ID auto_bootstrap_925
+[2024-Sep-24 19:30:47.226395]: Starting legacy bootstrap attempt with ID auto_bootstrap_926
+[2024-Sep-24 19:30:47.230713]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:47.231271]: Exiting legacy bootstrap attempt with ID auto_bootstrap_926
+[2024-Sep-24 19:30:52.283788]: Starting legacy bootstrap attempt with ID auto_bootstrap_927
+[2024-Sep-24 19:30:52.284661]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:52.284762]: Exiting legacy bootstrap attempt with ID auto_bootstrap_927
+[2024-Sep-24 19:30:57.290227]: Starting legacy bootstrap attempt with ID auto_bootstrap_928
+[2024-Sep-24 19:30:57.290780]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:30:57.290899]: Exiting legacy bootstrap attempt with ID auto_bootstrap_928
+[2024-Sep-24 19:31:02.344930]: Starting legacy bootstrap attempt with ID auto_bootstrap_929
+[2024-Sep-24 19:31:02.345744]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:02.347020]: Exiting legacy bootstrap attempt with ID auto_bootstrap_929
+[2024-Sep-24 19:31:07.347118]: Starting legacy bootstrap attempt with ID auto_bootstrap_930
+[2024-Sep-24 19:31:07.354723]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:07.355195]: Exiting legacy bootstrap attempt with ID auto_bootstrap_930
+[2024-Sep-24 19:31:12.411192]: Starting legacy bootstrap attempt with ID auto_bootstrap_931
+[2024-Sep-24 19:31:12.413486]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:12.416933]: Exiting legacy bootstrap attempt with ID auto_bootstrap_931
+[2024-Sep-24 19:31:17.435618]: Starting legacy bootstrap attempt with ID auto_bootstrap_932
+[2024-Sep-24 19:31:17.436659]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:17.436780]: Exiting legacy bootstrap attempt with ID auto_bootstrap_932
+[2024-Sep-24 19:31:22.506837]: Starting legacy bootstrap attempt with ID auto_bootstrap_933
+[2024-Sep-24 19:31:22.508088]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:22.508243]: Exiting legacy bootstrap attempt with ID auto_bootstrap_933
+[2024-Sep-24 19:31:27.584416]: Starting legacy bootstrap attempt with ID auto_bootstrap_934
+[2024-Sep-24 19:31:27.589455]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:27.589618]: Exiting legacy bootstrap attempt with ID auto_bootstrap_934
+[2024-Sep-24 19:31:32.645623]: Starting legacy bootstrap attempt with ID auto_bootstrap_935
+[2024-Sep-24 19:31:32.647459]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:32.647595]: Exiting legacy bootstrap attempt with ID auto_bootstrap_935
+[2024-Sep-24 19:31:37.668438]: Starting legacy bootstrap attempt with ID auto_bootstrap_936
+[2024-Sep-24 19:31:37.669230]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:37.669383]: Exiting legacy bootstrap attempt with ID auto_bootstrap_936
+[2024-Sep-24 19:31:42.732992]: Starting legacy bootstrap attempt with ID auto_bootstrap_937
+[2024-Sep-24 19:31:42.735284]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:42.738756]: Exiting legacy bootstrap attempt with ID auto_bootstrap_937
+[2024-Sep-24 19:31:47.780383]: Starting legacy bootstrap attempt with ID auto_bootstrap_938
+[2024-Sep-24 19:31:47.785515]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:47.786634]: Exiting legacy bootstrap attempt with ID auto_bootstrap_938
+[2024-Sep-24 19:31:52.829144]: Starting legacy bootstrap attempt with ID auto_bootstrap_939
+[2024-Sep-24 19:31:52.832685]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:52.833824]: Exiting legacy bootstrap attempt with ID auto_bootstrap_939
+[2024-Sep-24 19:31:57.844710]: Starting legacy bootstrap attempt with ID auto_bootstrap_940
+[2024-Sep-24 19:31:57.846369]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:31:57.846956]: Exiting legacy bootstrap attempt with ID auto_bootstrap_940
+[2024-Sep-24 19:32:02.900416]: Starting legacy bootstrap attempt with ID auto_bootstrap_941
+[2024-Sep-24 19:32:02.901804]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:02.902065]: Exiting legacy bootstrap attempt with ID auto_bootstrap_941
+[2024-Sep-24 19:32:07.933300]: Starting legacy bootstrap attempt with ID auto_bootstrap_942
+[2024-Sep-24 19:32:07.937566]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:07.942165]: Exiting legacy bootstrap attempt with ID auto_bootstrap_942
+[2024-Sep-24 19:32:12.958944]: Starting legacy bootstrap attempt with ID auto_bootstrap_943
+[2024-Sep-24 19:32:12.963213]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:12.966681]: Exiting legacy bootstrap attempt with ID auto_bootstrap_943
+[2024-Sep-24 19:32:18.040911]: Starting legacy bootstrap attempt with ID auto_bootstrap_944
+[2024-Sep-24 19:32:18.044834]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:18.046021]: Exiting legacy bootstrap attempt with ID auto_bootstrap_944
+[2024-Sep-24 19:32:23.044940]: Starting legacy bootstrap attempt with ID auto_bootstrap_945
+[2024-Sep-24 19:32:23.048035]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:23.050358]: Exiting legacy bootstrap attempt with ID auto_bootstrap_945
+[2024-Sep-24 19:32:28.094029]: Starting legacy bootstrap attempt with ID auto_bootstrap_946
+[2024-Sep-24 19:32:28.094854]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:28.095233]: Exiting legacy bootstrap attempt with ID auto_bootstrap_946
+[2024-Sep-24 19:32:33.101975]: Starting legacy bootstrap attempt with ID auto_bootstrap_947
+[2024-Sep-24 19:32:33.102547]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:33.102684]: Exiting legacy bootstrap attempt with ID auto_bootstrap_947
+[2024-Sep-24 19:32:38.154204]: Starting legacy bootstrap attempt with ID auto_bootstrap_948
+[2024-Sep-24 19:32:38.157873]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:38.161131]: Exiting legacy bootstrap attempt with ID auto_bootstrap_948
+[2024-Sep-24 19:32:43.229592]: Starting legacy bootstrap attempt with ID auto_bootstrap_949
+[2024-Sep-24 19:32:43.231369]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:43.232541]: Exiting legacy bootstrap attempt with ID auto_bootstrap_949
+[2024-Sep-24 19:32:48.248914]: Starting legacy bootstrap attempt with ID auto_bootstrap_950
+[2024-Sep-24 19:32:48.250814]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:48.251988]: Exiting legacy bootstrap attempt with ID auto_bootstrap_950
+[2024-Sep-24 19:32:53.300632]: Starting legacy bootstrap attempt with ID auto_bootstrap_951
+[2024-Sep-24 19:32:53.302389]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:53.303338]: Exiting legacy bootstrap attempt with ID auto_bootstrap_951
+[2024-Sep-24 19:32:58.378469]: Starting legacy bootstrap attempt with ID auto_bootstrap_952
+[2024-Sep-24 19:32:58.379625]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:32:58.383561]: Exiting legacy bootstrap attempt with ID auto_bootstrap_952
+[2024-Sep-24 19:33:03.381399]: Starting legacy bootstrap attempt with ID auto_bootstrap_953
+[2024-Sep-24 19:33:03.382415]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:03.382658]: Exiting legacy bootstrap attempt with ID auto_bootstrap_953
+[2024-Sep-24 19:33:08.414150]: Starting legacy bootstrap attempt with ID auto_bootstrap_954
+[2024-Sep-24 19:33:08.415644]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:08.416709]: Exiting legacy bootstrap attempt with ID auto_bootstrap_954
+[2024-Sep-24 19:33:13.456465]: Starting legacy bootstrap attempt with ID auto_bootstrap_955
+[2024-Sep-24 19:33:13.457010]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:13.457140]: Exiting legacy bootstrap attempt with ID auto_bootstrap_955
+[2024-Sep-24 19:33:18.473952]: Starting legacy bootstrap attempt with ID auto_bootstrap_956
+[2024-Sep-24 19:33:18.474523]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:18.474634]: Exiting legacy bootstrap attempt with ID auto_bootstrap_956
+[2024-Sep-24 19:33:23.475130]: Starting legacy bootstrap attempt with ID auto_bootstrap_957
+[2024-Sep-24 19:33:23.476157]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:23.476257]: Exiting legacy bootstrap attempt with ID auto_bootstrap_957
+[2024-Sep-24 19:33:28.514645]: Starting legacy bootstrap attempt with ID auto_bootstrap_958
+[2024-Sep-24 19:33:28.515183]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:28.515324]: Exiting legacy bootstrap attempt with ID auto_bootstrap_958
+[2024-Sep-24 19:33:33.517893]: Starting legacy bootstrap attempt with ID auto_bootstrap_959
+[2024-Sep-24 19:33:33.520395]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:33.521428]: Exiting legacy bootstrap attempt with ID auto_bootstrap_959
+[2024-Sep-24 19:33:38.523478]: Starting legacy bootstrap attempt with ID auto_bootstrap_960
+[2024-Sep-24 19:33:38.533837]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:38.534624]: Exiting legacy bootstrap attempt with ID auto_bootstrap_960
+[2024-Sep-24 19:33:43.532058]: Starting legacy bootstrap attempt with ID auto_bootstrap_961
+[2024-Sep-24 19:33:43.534677]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:43.537491]: Exiting legacy bootstrap attempt with ID auto_bootstrap_961
+[2024-Sep-24 19:33:48.554408]: Starting legacy bootstrap attempt with ID auto_bootstrap_962
+[2024-Sep-24 19:33:48.557762]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:48.557904]: Exiting legacy bootstrap attempt with ID auto_bootstrap_962
+[2024-Sep-24 19:33:53.580664]: Starting legacy bootstrap attempt with ID auto_bootstrap_963
+[2024-Sep-24 19:33:53.588522]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:53.589915]: Exiting legacy bootstrap attempt with ID auto_bootstrap_963
+[2024-Sep-24 19:33:58.584591]: Starting legacy bootstrap attempt with ID auto_bootstrap_964
+[2024-Sep-24 19:33:58.586633]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:33:58.587067]: Exiting legacy bootstrap attempt with ID auto_bootstrap_964
+[2024-Sep-24 19:34:03.587574]: Starting legacy bootstrap attempt with ID auto_bootstrap_965
+[2024-Sep-24 19:34:03.588767]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:03.588899]: Exiting legacy bootstrap attempt with ID auto_bootstrap_965
+[2024-Sep-24 19:34:08.600103]: Starting legacy bootstrap attempt with ID auto_bootstrap_966
+[2024-Sep-24 19:34:08.604295]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:08.604510]: Exiting legacy bootstrap attempt with ID auto_bootstrap_966
+[2024-Sep-24 19:34:13.614989]: Starting legacy bootstrap attempt with ID auto_bootstrap_967
+[2024-Sep-24 19:34:13.618064]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:13.623606]: Exiting legacy bootstrap attempt with ID auto_bootstrap_967
+[2024-Sep-24 19:34:18.669759]: Starting legacy bootstrap attempt with ID auto_bootstrap_968
+[2024-Sep-24 19:34:18.677941]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:18.679109]: Exiting legacy bootstrap attempt with ID auto_bootstrap_968
+[2024-Sep-24 19:34:23.677603]: Starting legacy bootstrap attempt with ID auto_bootstrap_969
+[2024-Sep-24 19:34:23.679105]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:23.679715]: Exiting legacy bootstrap attempt with ID auto_bootstrap_969
+[2024-Sep-24 19:34:28.679532]: Starting legacy bootstrap attempt with ID auto_bootstrap_970
+[2024-Sep-24 19:34:28.683809]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:28.683984]: Exiting legacy bootstrap attempt with ID auto_bootstrap_970
+[2024-Sep-24 19:34:33.686494]: Starting legacy bootstrap attempt with ID auto_bootstrap_971
+[2024-Sep-24 19:34:33.690409]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:33.691618]: Exiting legacy bootstrap attempt with ID auto_bootstrap_971
+[2024-Sep-24 19:34:38.826585]: Starting legacy bootstrap attempt with ID auto_bootstrap_972
+[2024-Sep-24 19:34:39.053422]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:39.053600]: Exiting legacy bootstrap attempt with ID auto_bootstrap_972
+[2024-Sep-24 19:34:44.092768]: Starting legacy bootstrap attempt with ID auto_bootstrap_973
+[2024-Sep-24 19:34:44.095773]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:44.097458]: Exiting legacy bootstrap attempt with ID auto_bootstrap_973
+[2024-Sep-24 19:34:49.160024]: Starting legacy bootstrap attempt with ID auto_bootstrap_974
+[2024-Sep-24 19:34:49.161590]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:49.163585]: Exiting legacy bootstrap attempt with ID auto_bootstrap_974
+[2024-Sep-24 19:34:54.164793]: Starting legacy bootstrap attempt with ID auto_bootstrap_975
+[2024-Sep-24 19:34:54.168720]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:54.171673]: Exiting legacy bootstrap attempt with ID auto_bootstrap_975
+[2024-Sep-24 19:34:59.177811]: Starting legacy bootstrap attempt with ID auto_bootstrap_976
+[2024-Sep-24 19:34:59.178374]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:34:59.178465]: Exiting legacy bootstrap attempt with ID auto_bootstrap_976
+[2024-Sep-24 19:35:04.211083]: Starting legacy bootstrap attempt with ID auto_bootstrap_977
+[2024-Sep-24 19:35:04.211879]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:04.212142]: Exiting legacy bootstrap attempt with ID auto_bootstrap_977
+[2024-Sep-24 19:35:09.234901]: Starting legacy bootstrap attempt with ID auto_bootstrap_978
+[2024-Sep-24 19:35:09.237362]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:09.237478]: Exiting legacy bootstrap attempt with ID auto_bootstrap_978
+[2024-Sep-24 19:35:14.268282]: Starting legacy bootstrap attempt with ID auto_bootstrap_979
+[2024-Sep-24 19:35:14.270453]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:14.270605]: Exiting legacy bootstrap attempt with ID auto_bootstrap_979
+[2024-Sep-24 19:35:19.289738]: Starting legacy bootstrap attempt with ID auto_bootstrap_980
+[2024-Sep-24 19:35:19.295599]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:19.296886]: Exiting legacy bootstrap attempt with ID auto_bootstrap_980
+[2024-Sep-24 19:35:24.294012]: Starting legacy bootstrap attempt with ID auto_bootstrap_981
+[2024-Sep-24 19:35:24.295968]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:24.296117]: Exiting legacy bootstrap attempt with ID auto_bootstrap_981
+[2024-Sep-24 19:35:29.297583]: Starting legacy bootstrap attempt with ID auto_bootstrap_982
+[2024-Sep-24 19:35:29.305634]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:29.307075]: Exiting legacy bootstrap attempt with ID auto_bootstrap_982
+[2024-Sep-24 19:35:34.372915]: Starting legacy bootstrap attempt with ID auto_bootstrap_983
+[2024-Sep-24 19:35:34.377787]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:34.384853]: Exiting legacy bootstrap attempt with ID auto_bootstrap_983
+[2024-Sep-24 19:35:39.423946]: Starting legacy bootstrap attempt with ID auto_bootstrap_984
+[2024-Sep-24 19:35:39.426352]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:39.433411]: Exiting legacy bootstrap attempt with ID auto_bootstrap_984
+[2024-Sep-24 19:35:44.489282]: Starting legacy bootstrap attempt with ID auto_bootstrap_985
+[2024-Sep-24 19:35:44.585978]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:44.590418]: Exiting legacy bootstrap attempt with ID auto_bootstrap_985
+[2024-Sep-24 19:35:49.591408]: Starting legacy bootstrap attempt with ID auto_bootstrap_986
+[2024-Sep-24 19:35:49.592983]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:49.593191]: Exiting legacy bootstrap attempt with ID auto_bootstrap_986
+[2024-Sep-24 19:35:54.650074]: Starting legacy bootstrap attempt with ID auto_bootstrap_987
+[2024-Sep-24 19:35:54.654728]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:54.655830]: Exiting legacy bootstrap attempt with ID auto_bootstrap_987
+[2024-Sep-24 19:35:59.652293]: Starting legacy bootstrap attempt with ID auto_bootstrap_988
+[2024-Sep-24 19:35:59.655706]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:35:59.656235]: Exiting legacy bootstrap attempt with ID auto_bootstrap_988
+[2024-Sep-24 19:36:04.719765]: Starting legacy bootstrap attempt with ID auto_bootstrap_989
+[2024-Sep-24 19:36:04.720544]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:36:04.727711]: Exiting legacy bootstrap attempt with ID auto_bootstrap_989
+[2024-Sep-24 19:36:09.755328]: Starting legacy bootstrap attempt with ID auto_bootstrap_990
+[2024-Sep-24 19:36:09.760174]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:36:09.760359]: Exiting legacy bootstrap attempt with ID auto_bootstrap_990
+[2024-Sep-24 19:36:14.775388]: Starting legacy bootstrap attempt with ID auto_bootstrap_991
+[2024-Sep-24 19:36:14.776219]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:36:14.776306]: Exiting legacy bootstrap attempt with ID auto_bootstrap_991
+[2024-Sep-24 19:36:19.793728]: Starting legacy bootstrap attempt with ID auto_bootstrap_992
+[2024-Sep-24 19:36:19.794622]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:36:19.794769]: Exiting legacy bootstrap attempt with ID auto_bootstrap_992
+[2024-Sep-24 19:36:24.802360]: Starting legacy bootstrap attempt with ID auto_bootstrap_993
+[2024-Sep-24 19:36:24.806605]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:36:24.808047]: Exiting legacy bootstrap attempt with ID auto_bootstrap_993
+[2024-Sep-24 19:36:29.852057]: Starting legacy bootstrap attempt with ID auto_bootstrap_994
+[2024-Sep-24 19:36:29.863465]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:36:29.867826]: Exiting legacy bootstrap attempt with ID auto_bootstrap_994
+[2024-Sep-24 19:36:34.912550]: Starting legacy bootstrap attempt with ID auto_bootstrap_995
+[2024-Sep-24 19:36:34.913372]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:36:34.913521]: Exiting legacy bootstrap attempt with ID auto_bootstrap_995
+[2024-Sep-24 19:36:39.949763]: Starting legacy bootstrap attempt with ID auto_bootstrap_996
+[2024-Sep-24 19:36:39.951761]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:36:39.952634]: Exiting legacy bootstrap attempt with ID auto_bootstrap_996
+[2024-Sep-24 19:36:44.954183]: Starting legacy bootstrap attempt with ID auto_bootstrap_997
+[2024-Sep-24 19:36:44.962228]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:36:44.970426]: Exiting legacy bootstrap attempt with ID auto_bootstrap_997
+[2024-Sep-24 19:36:49.983855]: Starting legacy bootstrap attempt with ID auto_bootstrap_998
+[2024-Sep-24 19:36:49.987989]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:36:49.988258]: Exiting legacy bootstrap attempt with ID auto_bootstrap_998
+[2024-Sep-24 19:36:55.056628]: Starting legacy bootstrap attempt with ID auto_bootstrap_999
+[2024-Sep-24 19:36:55.063836]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:36:55.065379]: Exiting legacy bootstrap attempt with ID auto_bootstrap_999
+[2024-Sep-24 19:37:00.090171]: Starting legacy bootstrap attempt with ID auto_bootstrap_1000
+[2024-Sep-24 19:37:00.098394]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:00.098659]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1000
+[2024-Sep-24 19:37:05.108135]: Starting legacy bootstrap attempt with ID auto_bootstrap_1001
+[2024-Sep-24 19:37:05.108929]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:05.109159]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1001
+[2024-Sep-24 19:37:10.125732]: Starting legacy bootstrap attempt with ID auto_bootstrap_1002
+[2024-Sep-24 19:37:10.165648]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:10.165842]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1002
+[2024-Sep-24 19:37:15.202708]: Starting legacy bootstrap attempt with ID auto_bootstrap_1003
+[2024-Sep-24 19:37:15.206195]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:15.207850]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1003
+[2024-Sep-24 19:37:20.275547]: Starting legacy bootstrap attempt with ID auto_bootstrap_1004
+[2024-Sep-24 19:37:20.276182]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:20.276311]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1004
+[2024-Sep-24 19:37:25.374439]: Starting legacy bootstrap attempt with ID auto_bootstrap_1005
+[2024-Sep-24 19:37:25.376075]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:25.376364]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1005
+[2024-Sep-24 19:37:30.385190]: Starting legacy bootstrap attempt with ID auto_bootstrap_1006
+[2024-Sep-24 19:37:30.387548]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:30.387723]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1006
+[2024-Sep-24 19:37:35.389306]: Starting legacy bootstrap attempt with ID auto_bootstrap_1007
+[2024-Sep-24 19:37:35.390300]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:35.390977]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1007
+[2024-Sep-24 19:37:40.434006]: Starting legacy bootstrap attempt with ID auto_bootstrap_1008
+[2024-Sep-24 19:37:40.645440]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:40.647132]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1008
+[2024-Sep-24 19:37:45.658398]: Starting legacy bootstrap attempt with ID auto_bootstrap_1009
+[2024-Sep-24 19:37:45.659070]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:45.659210]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1009
+[2024-Sep-24 19:37:50.689655]: Starting legacy bootstrap attempt with ID auto_bootstrap_1010
+[2024-Sep-24 19:37:50.690763]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:50.690881]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1010
+[2024-Sep-24 19:37:55.721771]: Starting legacy bootstrap attempt with ID auto_bootstrap_1011
+[2024-Sep-24 19:37:55.722583]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:37:55.722694]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1011
+[2024-Sep-24 19:38:00.759284]: Starting legacy bootstrap attempt with ID auto_bootstrap_1012
+[2024-Sep-24 19:38:00.762551]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:00.803976]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1012
+[2024-Sep-24 19:38:05.816505]: Starting legacy bootstrap attempt with ID auto_bootstrap_1013
+[2024-Sep-24 19:38:05.819326]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:05.819530]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1013
+[2024-Sep-24 19:38:10.819846]: Starting legacy bootstrap attempt with ID auto_bootstrap_1014
+[2024-Sep-24 19:38:10.821540]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:10.822824]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1014
+[2024-Sep-24 19:38:15.869705]: Starting legacy bootstrap attempt with ID auto_bootstrap_1015
+[2024-Sep-24 19:38:15.870344]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:15.870486]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1015
+[2024-Sep-24 19:38:20.896805]: Starting legacy bootstrap attempt with ID auto_bootstrap_1016
+[2024-Sep-24 19:38:20.897613]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:20.897829]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1016
+[2024-Sep-24 19:38:25.899243]: Starting legacy bootstrap attempt with ID auto_bootstrap_1017
+[2024-Sep-24 19:38:25.900226]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:25.900440]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1017
+[2024-Sep-24 19:38:30.949116]: Starting legacy bootstrap attempt with ID auto_bootstrap_1018
+[2024-Sep-24 19:38:30.951581]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:30.955492]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1018
+[2024-Sep-24 19:38:36.021317]: Starting legacy bootstrap attempt with ID auto_bootstrap_1019
+[2024-Sep-24 19:38:36.024905]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:36.025172]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1019
+[2024-Sep-24 19:38:41.028758]: Starting legacy bootstrap attempt with ID auto_bootstrap_1020
+[2024-Sep-24 19:38:41.079055]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:41.079229]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1020
+[2024-Sep-24 19:38:46.375102]: Starting legacy bootstrap attempt with ID auto_bootstrap_1021
+[2024-Sep-24 19:38:46.398844]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:46.399522]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1021
+[2024-Sep-24 19:38:51.493796]: Starting legacy bootstrap attempt with ID auto_bootstrap_1022
+[2024-Sep-24 19:38:51.494634]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:51.494973]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1022
+[2024-Sep-24 19:38:56.510078]: Starting legacy bootstrap attempt with ID auto_bootstrap_1023
+[2024-Sep-24 19:38:56.511768]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:38:56.512806]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1023
+[2024-Sep-24 19:39:01.513882]: Starting legacy bootstrap attempt with ID auto_bootstrap_1024
+[2024-Sep-24 19:39:01.514967]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:01.515190]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1024
+[2024-Sep-24 19:39:06.585663]: Starting legacy bootstrap attempt with ID auto_bootstrap_1025
+[2024-Sep-24 19:39:06.586142]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:06.586266]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1025
+[2024-Sep-24 19:39:11.610578]: Starting legacy bootstrap attempt with ID auto_bootstrap_1026
+[2024-Sep-24 19:39:11.695692]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:11.696528]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1026
+[2024-Sep-24 19:39:16.696264]: Starting legacy bootstrap attempt with ID auto_bootstrap_1027
+[2024-Sep-24 19:39:16.699307]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:16.699907]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1027
+[2024-Sep-24 19:39:21.724228]: Starting legacy bootstrap attempt with ID auto_bootstrap_1028
+[2024-Sep-24 19:39:21.726031]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:21.726391]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1028
+[2024-Sep-24 19:39:26.726748]: Starting legacy bootstrap attempt with ID auto_bootstrap_1029
+[2024-Sep-24 19:39:26.727711]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:26.731385]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1029
+[2024-Sep-24 19:39:31.744103]: Starting legacy bootstrap attempt with ID auto_bootstrap_1030
+[2024-Sep-24 19:39:31.744956]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:31.745162]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1030
+[2024-Sep-24 19:39:36.747975]: Starting legacy bootstrap attempt with ID auto_bootstrap_1031
+[2024-Sep-24 19:39:36.749407]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:36.749579]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1031
+[2024-Sep-24 19:39:41.757496]: Starting legacy bootstrap attempt with ID auto_bootstrap_1032
+[2024-Sep-24 19:39:41.764934]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:41.766625]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1032
+[2024-Sep-24 19:39:46.767138]: Starting legacy bootstrap attempt with ID auto_bootstrap_1033
+[2024-Sep-24 19:39:46.769359]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:46.771709]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1033
+[2024-Sep-24 19:39:51.820452]: Starting legacy bootstrap attempt with ID auto_bootstrap_1034
+[2024-Sep-24 19:39:51.824365]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:51.824668]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1034
+[2024-Sep-24 19:39:56.889264]: Starting legacy bootstrap attempt with ID auto_bootstrap_1035
+[2024-Sep-24 19:39:56.890061]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:39:56.890263]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1035
+[2024-Sep-24 19:40:01.891921]: Starting legacy bootstrap attempt with ID auto_bootstrap_1036
+[2024-Sep-24 19:40:01.893122]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:01.893786]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1036
+[2024-Sep-24 19:40:06.913477]: Starting legacy bootstrap attempt with ID auto_bootstrap_1037
+[2024-Sep-24 19:40:06.914025]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:06.914148]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1037
+[2024-Sep-24 19:40:11.924127]: Starting legacy bootstrap attempt with ID auto_bootstrap_1038
+[2024-Sep-24 19:40:11.929234]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:11.930462]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1038
+[2024-Sep-24 19:40:16.943986]: Starting legacy bootstrap attempt with ID auto_bootstrap_1039
+[2024-Sep-24 19:40:16.948300]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:16.948507]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1039
+[2024-Sep-24 19:40:21.945941]: Starting legacy bootstrap attempt with ID auto_bootstrap_1040
+[2024-Sep-24 19:40:21.946950]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:21.947162]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1040
+[2024-Sep-24 19:40:26.982955]: Starting legacy bootstrap attempt with ID auto_bootstrap_1041
+[2024-Sep-24 19:40:26.983998]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:26.984136]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1041
+[2024-Sep-24 19:40:32.054289]: Starting legacy bootstrap attempt with ID auto_bootstrap_1042
+[2024-Sep-24 19:40:32.054894]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:32.057080]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1042
+[2024-Sep-24 19:40:37.063486]: Starting legacy bootstrap attempt with ID auto_bootstrap_1043
+[2024-Sep-24 19:40:37.065555]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:37.072514]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1043
+[2024-Sep-24 19:40:42.082678]: Starting legacy bootstrap attempt with ID auto_bootstrap_1044
+[2024-Sep-24 19:40:42.085560]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:42.085697]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1044
+[2024-Sep-24 19:40:47.157342]: Starting legacy bootstrap attempt with ID auto_bootstrap_1045
+[2024-Sep-24 19:40:47.158165]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:47.158388]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1045
+[2024-Sep-24 19:40:52.189958]: Starting legacy bootstrap attempt with ID auto_bootstrap_1046
+[2024-Sep-24 19:40:52.198361]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:52.204989]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1046
+[2024-Sep-24 19:40:57.254235]: Starting legacy bootstrap attempt with ID auto_bootstrap_1047
+[2024-Sep-24 19:40:57.255110]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:40:57.255218]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1047
+[2024-Sep-24 19:41:02.306249]: Starting legacy bootstrap attempt with ID auto_bootstrap_1048
+[2024-Sep-24 19:41:02.306905]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:02.307022]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1048
+[2024-Sep-24 19:41:07.339211]: Starting legacy bootstrap attempt with ID auto_bootstrap_1049
+[2024-Sep-24 19:41:07.341962]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:07.342870]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1049
+[2024-Sep-24 19:41:12.358130]: Starting legacy bootstrap attempt with ID auto_bootstrap_1050
+[2024-Sep-24 19:41:12.360701]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:12.360852]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1050
+[2024-Sep-24 19:41:17.365163]: Starting legacy bootstrap attempt with ID auto_bootstrap_1051
+[2024-Sep-24 19:41:17.365851]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:17.367079]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1051
+[2024-Sep-24 19:41:22.419587]: Starting legacy bootstrap attempt with ID auto_bootstrap_1052
+[2024-Sep-24 19:41:22.424233]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:22.425432]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1052
+[2024-Sep-24 19:41:27.420919]: Starting legacy bootstrap attempt with ID auto_bootstrap_1053
+[2024-Sep-24 19:41:27.424441]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:27.425766]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1053
+[2024-Sep-24 19:41:32.465936]: Starting legacy bootstrap attempt with ID auto_bootstrap_1054
+[2024-Sep-24 19:41:32.469519]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:32.470885]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1054
+[2024-Sep-24 19:41:37.470181]: Starting legacy bootstrap attempt with ID auto_bootstrap_1055
+[2024-Sep-24 19:41:37.474364]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:37.476942]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1055
+[2024-Sep-24 19:41:42.472313]: Starting legacy bootstrap attempt with ID auto_bootstrap_1056
+[2024-Sep-24 19:41:42.475408]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:42.476581]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1056
+[2024-Sep-24 19:41:47.484692]: Starting legacy bootstrap attempt with ID auto_bootstrap_1057
+[2024-Sep-24 19:41:47.532575]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:47.532858]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1057
+[2024-Sep-24 19:41:52.545370]: Starting legacy bootstrap attempt with ID auto_bootstrap_1058
+[2024-Sep-24 19:41:52.560015]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:52.560199]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1058
+[2024-Sep-24 19:41:57.549360]: Starting legacy bootstrap attempt with ID auto_bootstrap_1059
+[2024-Sep-24 19:41:57.555429]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:41:57.555682]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1059
+[2024-Sep-24 19:42:02.571931]: Starting legacy bootstrap attempt with ID auto_bootstrap_1060
+[2024-Sep-24 19:42:02.574223]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:42:02.574382]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1060
+[2024-Sep-24 19:42:07.590553]: Starting legacy bootstrap attempt with ID auto_bootstrap_1061
+[2024-Sep-24 19:42:07.593891]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:42:07.595458]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1061
+[2024-Sep-24 19:42:12.606378]: Starting legacy bootstrap attempt with ID auto_bootstrap_1062
+[2024-Sep-24 19:42:12.607270]: Bootstrap attempt stopped because there are no peers
+[2024-Sep-24 19:42:12.607398]: Exiting legacy bootstrap attempt with ID auto_bootstrap_1062
