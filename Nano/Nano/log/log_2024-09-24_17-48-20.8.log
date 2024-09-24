@@ -1,0 +1,11 @@
+[2024-Sep-24 17:48:20.846361]: Websocket: listen failed: bind: Address already in use
+[2024-Sep-24 17:48:20.847369]: Node starting, version: V23.3
+[2024-Sep-24 17:48:20.847429]: Build information: 33422f4 "GNU C++ version " "7.5.0" "BOOST 107000" BUILT "Jun 13 2022"
+[2024-Sep-24 17:48:20.847776]: Database backend: LMDB 0.9.25
+[2024-Sep-24 17:48:20.847835]: Active network: live
+[2024-Sep-24 17:48:20.847884]: Work pool running 1 threads 
+[2024-Sep-24 17:48:20.847931]: 0 work peers configured
+[2024-Sep-24 17:48:20.847986]: Outbound Voting Bandwidth limited to 10485760 bytes per second, burst ratio 3
+[2024-Sep-24 17:48:20.848513]: /root/Nano/node_id_private.key exists, reading node id from it
+[2024-Sep-24 17:48:20.848664]: Node ID: node_1xqx37rd5ijdsmj66wtd5idr46y7x56tjw3n598cjkqmsfcc36rttdj6uexs
+[2024-Sep-24 17:48:21.090995]: Node stopping
